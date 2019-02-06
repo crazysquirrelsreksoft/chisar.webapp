@@ -1,0 +1,23 @@
+
+Планировщик путешествий chisar.site
+
+-логирование пользователя, создание учетной записи
+	-photo
+	-personal info
+	-my trips
+	-shared trips
+
+-создание путешествия 
+	-description and themes
+	-related regions(automatically consists of regions from Destination list)
+	-add Transport to Destination and back
+	-add Destination1 добавить место, страну, город
+		-add How to reach Destination1
+		-add Sight
+			-
+			-add Transport to sightseeing
+			-prices and taxes and fees
+	-add Transport to next Destination
+	-add Destination1 добавить место, страну, город
+	
+	files/input.txt
