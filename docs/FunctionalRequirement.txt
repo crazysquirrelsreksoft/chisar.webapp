@@ -1,11 +1,6 @@
 
 Планировщик путешествий chisar.site
 
--логирование пользователя, создание учетной записи
-	-photo
-	-personal info
-	-my trips
-	-shared trips
 
 -создание путешествия 
 	-description and themes
@@ -20,4 +15,23 @@
 	-add Transport to next Destination
 	-add Destination1 добавить место, страну, город
 	
-	files/input.txt
+	files/input.txt оь
+	
+	2 этап ----------------------
+	
+-логирование пользователя, создание учетной записи
+	-photo
+	-personal info
+	-my trips
+	-shared trips
+	
+-обогащение бд
+- internal_transfer_list в destination 
+- отзывы после путешествия
+- возможность делиться с другими пользователями
+- публичные путешествия по регионам
+-подключить liquibase
+
+--умный подбор трипа по заданному бюджету и городам
+
+	
